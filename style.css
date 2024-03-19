@@ -1,0 +1,21 @@
+#result {
+    display: flex;
+    flex-direction: column;
+    min-height: 90vh;
+    justify-content: center;
+    align-items: center;
+}
+
+#type {
+    background-color: crimson;
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
+    padding: 8px 16px;
+    display: none;
+}
+
+#activity {
+    font-size: 2em;
+    font-weight: 800;
+}
